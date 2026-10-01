@@ -27,11 +27,11 @@ A quick look at the core structure of this assignment:
 
 ```bash
 src/
-├── components/
-│   ├── ClassCounter.jsx        # Implementation using legacy class architecture
-│   ├── FunctionalCounter.jsx   # Implementation using modern functional architecture
-│   └── DataFetcher.jsx         # Implementation leveraging useState and useEffect Hooks
-├── App.jsx                     # Component staging area
+├
+│──classAndFunctionalCompo.jsx  #implementation of class and Functional component
+│──home_v5, home_v6, home_v7, home  # Implementation using modern functional architecture and Hooks (useState, useEffect)
+│   
+├──home_v1, home_v2, home_v3, home_v4                     # class Component code
 └── main.jsx                    # Application mounting file
 ```
 
