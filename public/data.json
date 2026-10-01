@@ -1,0 +1,32 @@
+[
+    {
+        "No": 1,
+        "Name": "Chetan",
+        "Address": "Pune"
+    },
+    {
+        "No": 2,
+        "Name": "Ketan",
+        "Address": "Pune"
+    },
+    {
+        "No": 3,
+        "Name": "Achetan",
+        "Address": "Mumbai"
+    },
+    {
+        "No": 4,
+        "Name": "Chetana",
+        "Address": "Chennai"
+    },
+    {
+        "No": 5,
+        "Name": "Tanvi",
+        "Address": "Punji"
+    },
+    
+        {"No":1, "Name":"Dipali", "Address":"Pune"},
+        {"No":2, "Name":"Ragini", "Address":"Pune" },
+        {"No":3, "Name":"Bhagyasgree", "Address":"PC"}
+    
+]
